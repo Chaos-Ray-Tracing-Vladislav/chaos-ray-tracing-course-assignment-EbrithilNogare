@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/dev/chaos-ray-tracing-course-assignment-EbrithilNogare/SourceCode/chaos_hw_02/out/build/x64-debug/CMakeFiles/chaos_hw_02.dir/embed.manifest"
