@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE329A8-C184-4310-99EE-F6609208D14F}|chaos_hw_09.vcxproj|C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEE329A8-C184-4310-99EE-F6609208D14F}|chaos_hw_09.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE329A8-C184-4310-99EE-F6609208D14F}|chaos_hw_09.vcxproj|C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEE329A8-C184-4310-99EE-F6609208D14F}|chaos_hw_09.vcxproj|solutionrelative:main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAAE0BAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T19:57:18.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.hpp",
+              "DocumentMoniker": "C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.hpp",
+              "RelativeDocumentMoniker": "main.hpp",
+              "ToolTip": "C:\\dev\\chaos-ray-tracing-course-assignment-EbrithilNogare\\SourceCode\\chaos_hw_09\\main.hpp",
+              "RelativeToolTip": "main.hpp",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-25T19:57:18.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
